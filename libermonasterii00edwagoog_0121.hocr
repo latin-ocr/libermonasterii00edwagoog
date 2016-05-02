@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libermonasterii00edwagoog_0121.png"; bbox 0 0 3817 6450; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 2806 1222 2902">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 2806 1222 2902">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 2806 1222 2902; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 588 2806 823 2900; x_wconf 84' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 861 2806 957 2898; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 999 2807 1222 2902; x_wconf 86' lang='lat' dir='ltr'><strong>HYDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 804 3063 1010 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 804 3063 1010 3128">
+     <span class='ocr_line' id='line_1_2' title="bbox 804 3063 1010 3128; baseline 0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 804 3063 1010 3128; x_wconf 78' lang='lat'>455-1023.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 377 3301 1427 3503">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 377 3301 1427 3503">
+     <span class='ocr_line' id='line_1_3' title="bbox 377 3301 1427 3370; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 377 3301 519 3370; x_wconf 80' lang='lat' dir='ltr'><strong>FROM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 542 3303 574 3367; x_wconf 87' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_7' title='bbox 597 3301 666 3368; x_wconf 80' lang='lat' dir='ltr'><strong>MS.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 689 3301 741 3366; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 764 3302 858 3368; x_wconf 84' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 881 3301 1087 3368; x_wconf 85' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1110 3303 1169 3369; x_wconf 83' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1191 3303 1284 3369; x_wconf 78' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1307 3302 1427 3369; x_wconf 84' lang='lat' dir='ltr'><strong>EARL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 687 3434 1236 3503; baseline -0.002 -1"><span class='ocrx_word' id='word_1_14' title='bbox 687 3434 746 3502; x_wconf 83' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 770 3434 1131 3503; x_wconf 82' lang='lat' dir='ltr'><strong>MACOLESFIELD.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1234 3441 1236 3446; x_wconf 79' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1914 6450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1914 6450">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1914 6450; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1914 6450; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
